@@ -25,5 +25,5 @@ Estudando Kotlin.
 
 
 ## 🛠 Habilidades
-Kotlin, HTML, CSS , SQL
+KOTLIN, HTML, CSS , SQL
 
